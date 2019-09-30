@@ -3,7 +3,7 @@
 ## a rune stone cast for the Get Stoned website
 ### Unity/C#
 
-Try it out [Here!] (https://theguardingdark.github.io/runestones/)  
+Try it out [Here](https://theguardingdark.github.io/runestones/)  
 
 
 APP FUNCTIONALITY
