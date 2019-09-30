@@ -4,7 +4,6 @@
 ### Unity/C#
 
 Try it out [Here!] (https://theguardingdark.github.io/runestones/)  
-Check out the code [Here] (https://github.com/TheGuardingDark/lets-get-metaphysical/tree/master/scripts)
 
 
 APP FUNCTIONALITY
